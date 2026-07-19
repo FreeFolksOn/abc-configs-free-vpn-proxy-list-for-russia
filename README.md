@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-19%2016%3A17%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-19%2016%3A27%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,16 +50,16 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-19 16:17 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-19 16:27 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>22 мин назад</td><td>10 ms</td><td>100.0%</td><td>22 мин назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>22 мин назад</td><td>7 ms</td><td>100.0%</td><td>22 мин назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>51 мин назад</td><td>478 ms</td><td>100.0%</td><td>51 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>32 мин назад</td><td>10 ms</td><td>100.0%</td><td>32 мин назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>32 мин назад</td><td>7 ms</td><td>100.0%</td><td>32 мин назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>1 ч назад</td><td>478 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
     <tr><td>04</td><td>1 ч назад</td><td>27 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://88c739fb-0cd9-423f-af44-35dbdae47158@naran-de-ow.fizikade.ir:443?security=reality&amp;encryption=none&amp;pbk=V2FVglvB5lw4cSrkhSPRpve27gV2Wp7sO6NUAyxXGQs&amp;headerType=http&amp;fp=firefox&amp;spx=%2Fnaranv2ray&amp;type=tcp&amp;sni=play.google.com&amp;sid=68cd#%40NormanV2ray%20%F0%9F%87%A9%F0%9F%87%AA</code></td></tr>
     <tr><td>05</td><td>1 ч назад</td><td>23 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://1ffd6264-c6ce-4ff1-ad30-5329c9cad3d7@naran-mil-ow.fizikade.ir:443?security=reality&amp;encryption=none&amp;pbk=xIlI7i0C7C6bqamLJV2bXpWQ7tW0WpBng6PM92BE8AI&amp;headerType=http&amp;fp=firefox&amp;spx=%2Fnaranv2ray&amp;type=tcp&amp;sni=play.google.com&amp;sid=d7b62fdf683ad6#%40NormanV2ray%F0%9F%87%AE%F0%9F%87%B9</code></td></tr>
     <tr><td>06</td><td>1 ч назад</td><td>25 ms</td><td>100.0%</td><td>1 ч назад</td><td>#vless</td><td><code>vless://88c739fb-0cd9-423f-af44-35dbdae47158@naran-de-ow.fizikade.ir:443?security=reality&amp;encryption=none&amp;pbk=V2FVglvB5lw4cSrkhSPRpve27gV2Wp7sO6NUAyxXGQs&amp;headerType=http&amp;fp=firefox&amp;spx=%2Fnaranv2ray&amp;type=tcp&amp;sni=play.google.com&amp;sid=68cd#%40NormanV2ray%20%F0%9F%87%A9%F0%9F%87%AA</code></td></tr>
