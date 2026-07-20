@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-20%2008%3A57%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-20%2009%3A07%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-20 08:57 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-20 09:07 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>20 мин назад</td><td>16 ms</td><td>100.0%</td><td>20 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>21 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85</code></td></tr>
-    <tr><td>03</td><td>21 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=kssepa.sabzipolobamahi.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyNXNV2S</code></td></tr>
-    <tr><td>04</td><td>21 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85</code></td></tr>
-    <tr><td>05</td><td>21 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=kssepa.sabzipolobamahi.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyNXNV2S</code></td></tr>
-    <tr><td>06</td><td>47 мин назад</td><td>145 ms</td><td>100.0%</td><td>47 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>30 мин назад</td><td>16 ms</td><td>100.0%</td><td>30 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>31 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85</code></td></tr>
+    <tr><td>03</td><td>31 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=kssepa.sabzipolobamahi.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyNXNV2S</code></td></tr>
+    <tr><td>04</td><td>31 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85</code></td></tr>
+    <tr><td>05</td><td>31 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=kssepa.sabzipolobamahi.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyNXNV2S</code></td></tr>
+    <tr><td>06</td><td>57 мин назад</td><td>145 ms</td><td>100.0%</td><td>57 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#США🇺🇸</code></td></tr>
     <tr><td>07</td><td>1 ч назад</td><td>13 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>08</td><td>1 ч назад</td><td>100 ms</td><td>100.0%</td><td>1 ч назад</td><td>#trojan</td><td><code>trojan://humanity@2.144.21.112:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>09</td><td>1 ч назад</td><td>7 ms</td><td>100.0%</td><td>1 ч назад</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
