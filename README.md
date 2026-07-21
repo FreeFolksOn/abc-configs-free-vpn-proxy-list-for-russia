@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-21%2022%3A27%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-21%2022%3A37%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,21 +50,21 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-21 22:27 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-21 22:37 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>7 мин назад</td><td>35 ms</td><td>100.0%</td><td>7 мин назад</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>02</td><td>7 мин назад</td><td>37 ms</td><td>100.0%</td><td>7 мин назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>01</td><td>17 мин назад</td><td>35 ms</td><td>100.0%</td><td>17 мин назад</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>02</td><td>17 мин назад</td><td>37 ms</td><td>100.0%</td><td>17 мин назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>03</td><td>1 ч назад</td><td>20 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
     <tr><td>04</td><td>1 ч назад</td><td>21 ms</td><td>100.0%</td><td>1 ч назад</td><td>#vless</td><td><code>vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
-    <tr><td>05</td><td>1 ч назад</td><td>27 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
-    <tr><td>06</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
-    <tr><td>07</td><td>1 ч назад</td><td>27 ms</td><td>100.0%</td><td>1 ч назад</td><td>#vless</td><td><code>vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
-    <tr><td>08</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
+    <tr><td>05</td><td>2 ч назад</td><td>27 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
+    <tr><td>06</td><td>2 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
+    <tr><td>07</td><td>2 ч назад</td><td>27 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
+    <tr><td>08</td><td>2 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
     <tr><td>09</td><td>2 ч назад</td><td>17 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>10</td><td>2 ч назад</td><td>141 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>11</td><td>2 ч назад</td><td>379 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
@@ -86,7 +86,7 @@
     <tr><td>27</td><td>3 ч назад</td><td>14 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.73.240:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>28</td><td>3 ч назад</td><td>15 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.73.240:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>29</td><td>3 ч назад</td><td>15 ms</td><td>100.0%</td><td>3 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>30</td><td>3 ч назад</td><td>36 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>30</td><td>4 ч назад</td><td>36 ms</td><td>100.0%</td><td>4 ч назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
   </tbody>
 </table>
 
