@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-22%2022%3A27%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-22%2022%3A37%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-22 22:27 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-22 22:37 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>16 мин назад</td><td>17 ms</td><td>100.0%</td><td>16 мин назад</td><td>#ss</td><td><code>ss://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>02</td><td>16 мин назад</td><td>18 ms</td><td>100.0%</td><td>16 мин назад</td><td>#vless</td><td><code>vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>03</td><td>16 мин назад</td><td>37 ms</td><td>100.0%</td><td>16 мин назад</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>04</td><td>16 мин назад</td><td>66 ms</td><td>100.0%</td><td>16 мин назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>01</td><td>26 мин назад</td><td>17 ms</td><td>100.0%</td><td>26 мин назад</td><td>#ss</td><td><code>ss://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>02</td><td>26 мин назад</td><td>18 ms</td><td>100.0%</td><td>26 мин назад</td><td>#vless</td><td><code>vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>03</td><td>26 мин назад</td><td>37 ms</td><td>100.0%</td><td>26 мин назад</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>04</td><td>26 мин назад</td><td>66 ms</td><td>100.0%</td><td>26 мин назад</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>05</td><td>1 ч назад</td><td>14 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.154.172:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>06</td><td>1 ч назад</td><td>15 ms</td><td>100.0%</td><td>1 ч назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.154.172:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>07</td><td>1 ч назад</td><td>9 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%859OGGGF</code></td></tr>
