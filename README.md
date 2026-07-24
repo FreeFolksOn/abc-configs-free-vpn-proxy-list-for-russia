@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-24%2022%3A17%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-24%2022%3A27%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-24 22:17 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-24 22:27 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>12 мин назад</td><td>9 ms</td><td>100.0%</td><td>12 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtaGFtaWQzMg@179.61.251.63:8444#Германия🇩🇪</code></td></tr>
-    <tr><td>02</td><td>34 мин назад</td><td>97 ms</td><td>100.0%</td><td>34 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
+    <tr><td>01</td><td>22 мин назад</td><td>9 ms</td><td>100.0%</td><td>22 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtaGFtaWQzMg@179.61.251.63:8444#Германия🇩🇪</code></td></tr>
+    <tr><td>02</td><td>44 мин назад</td><td>97 ms</td><td>100.0%</td><td>44 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
     <tr><td>03</td><td>1 ч назад</td><td>164 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp&amp;x_padding_bytes=100-1000#xhttp-norman</code></td></tr>
     <tr><td>04</td><td>1 ч назад</td><td>160 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2052?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;sni=&amp;type=tcp#tls-2-norman</code></td></tr>
     <tr><td>05</td><td>1 ч назад</td><td>162 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:8443?encryption=none&amp;host=&amp;path=%2F&amp;security=none&amp;type=ws#ws-norman</code></td></tr>
