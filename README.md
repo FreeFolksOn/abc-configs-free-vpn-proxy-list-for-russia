@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-24%2015%3A27%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-07-24%2015%3A37%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-07-24 15:27 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-07-24 15:37 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>8 мин назад</td><td>1176 ms</td><td>66.7%</td><td>8 мин назад</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>8 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
-    <tr><td>03</td><td>31 мин назад</td><td>98 ms</td><td>100.0%</td><td>30 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
-    <tr><td>04</td><td>49 мин назад</td><td>22 ms</td><td>100.0%</td><td>49 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>18 мин назад</td><td>1176 ms</td><td>66.7%</td><td>18 мин назад</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>18 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>03</td><td>41 мин назад</td><td>98 ms</td><td>100.0%</td><td>40 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
+    <tr><td>04</td><td>59 мин назад</td><td>22 ms</td><td>100.0%</td><td>59 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>05</td><td>1 ч назад</td><td>16 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=141.95.108.109&amp;port=9443&amp;secret=pWO0yCYk7WkrXoGP4HKPuTRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA</code></td></tr>
     <tr><td>06</td><td>1 ч назад</td><td>20 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=ir.goalir.co.uk&amp;port=8080&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</code></td></tr>
     <tr><td>07</td><td>1 ч назад</td><td>16 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=melifot.help.207-693-55-23.ir.&amp;port=8443&amp;secret=7hYDBIGHSV36xZoDAiDCXY5iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D</code></td></tr>
@@ -70,7 +70,7 @@
     <tr><td>11</td><td>1 ч назад</td><td>22 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=rain.golgoli2.co.uk&amp;port=2096&amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d</code></td></tr>
     <tr><td>12</td><td>1 ч назад</td><td>22 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=win.golgoli1.co.uk&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d</code></td></tr>
     <tr><td>13</td><td>1 ч назад</td><td>18 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=gold.lavazemi4.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>14</td><td>1 ч назад</td><td>16 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>14</td><td>2 ч назад</td><td>16 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>15</td><td>2 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#trojan</td><td><code>trojan://1…</code></td></tr>
     <tr><td>16</td><td>2 ч назад</td><td>31 ms</td><td>100.0%</td><td>2 ч назад</td><td>#trojan</td><td><code>trojan://1-----------------BanV2ray-----------------1@179.237.74.104:51811?mode=gun&amp;security=reality&amp;pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&amp;fp=firefox&amp;spx=%2F2c44c7453292bcc&amp;type=grpc&amp;sni=world.yahoo.com%3A443&amp;sid=072539711a#%5B%20%F0%9F%87%B3%F0%9F%87%B1%20%5D%20%28%20https%3A%2F%2Ft.me%2Fcpy_teeL%20%29%20%F0%9F%94%A5-%282%29</code></td></tr>
     <tr><td>17</td><td>2 ч назад</td><td>18 ms</td><td>100.0%</td><td>2 ч назад</td><td>#trojan</td><td><code>trojan://1------------------BanV2ray------------------1@37.156.45.60:46117?mode=gun&amp;security=reality&amp;pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&amp;fp=firefox&amp;spx=%2F3a4e7061e937f69&amp;type=grpc&amp;sni=world.yahoo.com%3A443&amp;sid=a93d9b#%5B%20%F0%9F%87%B3%F0%9F%87%B1%20%5D%20%28%20https%3A%2F%2Ft.me%2Fcpy_teeL%20%29%20%F0%9F%94%A5-%281%29</code></td></tr>
