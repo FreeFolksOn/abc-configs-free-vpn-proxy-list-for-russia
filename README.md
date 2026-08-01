@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-01%2011%3A07%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-01%2011%3A17%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,24 +50,24 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-01 11:07 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-01 11:17 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>0 мин назад</td><td>947 ms</td><td>100.0%</td><td>20 с назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Сингапур🇸🇬</code></td></tr>
-    <tr><td>02</td><td>15 мин назад</td><td>14 ms</td><td>100.0%</td><td>15 мин назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>15 мин назад</td><td>15 ms</td><td>100.0%</td><td>15 мин назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>04</td><td>18 мин назад</td><td>17 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>05</td><td>22 мин назад</td><td>108 ms</td><td>100.0%</td><td>22 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
-    <tr><td>06</td><td>46 мин назад</td><td>16 ms</td><td>100.0%</td><td>46 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=kjpi912713.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>01</td><td>10 мин назад</td><td>947 ms</td><td>100.0%</td><td>10 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Сингапур🇸🇬</code></td></tr>
+    <tr><td>02</td><td>25 мин назад</td><td>14 ms</td><td>100.0%</td><td>25 мин назад</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>25 мин назад</td><td>15 ms</td><td>100.0%</td><td>25 мин назад</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>04</td><td>28 мин назад</td><td>17 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>05</td><td>32 мин назад</td><td>108 ms</td><td>100.0%</td><td>32 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
+    <tr><td>06</td><td>56 мин назад</td><td>16 ms</td><td>100.0%</td><td>56 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=kjpi912713.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>07</td><td>1 ч назад</td><td>Н/Д</td><td>Н/Д</td><td>Н/Д</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
     <tr><td>08</td><td>1 ч назад</td><td>14 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>09</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.201.20:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>10</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.201.20:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>11</td><td>1 ч назад</td><td>254 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
+    <tr><td>11</td><td>2 ч назад</td><td>254 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
     <tr><td>12</td><td>2 ч назад</td><td>12 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&amp;encryption=no…</code></td></tr>
     <tr><td>13</td><td>2 ч назад</td><td>27 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://1b74b98a-619f-47ab-bbb9-a7650f6c4d4c@62.238.63.51:1234?security=&amp;encryption=none&amp;host=%40GHOFLSHCAN.%40GHOFLSHCAN.play.google.com&amp;headerType=http&amp;type=tcp#@NormanConfig</code></td></tr>
     <tr><td>14</td><td>2 ч назад</td><td>7 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#@NormanConfig</code></td></tr>
