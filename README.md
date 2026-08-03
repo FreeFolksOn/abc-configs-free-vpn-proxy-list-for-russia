@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-03%2014%3A37%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-03%2014%3A47%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,24 +50,24 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-03 14:37 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-03 14:47 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>16 мин назад</td><td>288 ms</td><td>100.0%</td><td>16 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.30.84:50099#Тайвань🇹🇼</code></td></tr>
-    <tr><td>02</td><td>18 мин назад</td><td>15 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=panel-portal.managep.info&amp;port=443&amp;secret=ee1603010…</code></td></tr>
-    <tr><td>03</td><td>18 мин назад</td><td>17 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
-    <tr><td>04</td><td>18 мин назад</td><td>15 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mini.lavazemi4.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>05</td><td>18 мин назад</td><td>15 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=444&amp;secret=ee52579203ca28c1ea8b729af8cef2872b706c61792e676f6f676c652e636f6d</code></td></tr>
-    <tr><td>06</td><td>18 мин назад</td><td>16 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.serverfool.ir.&amp;port=8443&amp;secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d</code></td></tr>
-    <tr><td>07</td><td>18 мин назад</td><td>16 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=daemi-asli.karshenasi.info&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</code></td></tr>
-    <tr><td>08</td><td>18 мин назад</td><td>17 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=167.233.189.251&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>09</td><td>18 мин назад</td><td>20 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>10</td><td>18 мин назад</td><td>16 ms</td><td>100.0%</td><td>17 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Ghavi.nofex-co.info&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>11</td><td>35 мин назад</td><td>16 ms</td><td>100.0%</td><td>35 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>26 мин назад</td><td>288 ms</td><td>100.0%</td><td>26 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.30.84:50099#Тайвань🇹🇼</code></td></tr>
+    <tr><td>02</td><td>28 мин назад</td><td>15 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=panel-portal.managep.info&amp;port=443&amp;secret=ee1603010…</code></td></tr>
+    <tr><td>03</td><td>28 мин назад</td><td>17 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
+    <tr><td>04</td><td>28 мин назад</td><td>15 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mini.lavazemi4.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>05</td><td>28 мин назад</td><td>15 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=444&amp;secret=ee52579203ca28c1ea8b729af8cef2872b706c61792e676f6f676c652e636f6d</code></td></tr>
+    <tr><td>06</td><td>28 мин назад</td><td>16 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.serverfool.ir.&amp;port=8443&amp;secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d</code></td></tr>
+    <tr><td>07</td><td>28 мин назад</td><td>16 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=daemi-asli.karshenasi.info&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</code></td></tr>
+    <tr><td>08</td><td>28 мин назад</td><td>17 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=167.233.189.251&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>09</td><td>28 мин назад</td><td>20 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>10</td><td>28 мин назад</td><td>16 ms</td><td>100.0%</td><td>27 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Ghavi.nofex-co.info&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>11</td><td>45 мин назад</td><td>16 ms</td><td>100.0%</td><td>45 мин назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>12</td><td>1 ч назад</td><td>19 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>13</td><td>1 ч назад</td><td>20 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>14</td><td>1 ч назад</td><td>Н/Д</td><td>Н/Д</td><td>Н/Д</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
@@ -81,12 +81,12 @@
     <tr><td>22</td><td>2 ч назад</td><td>18 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=65.109.254.50&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>23</td><td>2 ч назад</td><td>15 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mizaneshgh2.co.uk&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>24</td><td>2 ч назад</td><td>16 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.cheshmabromeshki.ir.&amp;port=8443&amp;secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t</code></td></tr>
-    <tr><td>25</td><td>2 ч назад</td><td>16 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>26</td><td>2 ч назад</td><td>38 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=r…</code></td></tr>
-    <tr><td>27</td><td>2 ч назад</td><td>46 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?encryption=none&amp;security=reality&amp;sni=rubr5.cheburnetnastalgia1998.com&amp;pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&amp;sid=1c52b34d46469887&amp;type=grpc#%40Daily_Configs</code></td></tr>
-    <tr><td>28</td><td>2 ч назад</td><td>47 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&amp;security=reality&amp;sni=rubr7.cheburnetnastalgia1998.com&amp;pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&amp;sid=eb3b7e6bbc66552e&amp;type=grpc#%40Daily_Configs</code></td></tr>
-    <tr><td>29</td><td>2 ч назад</td><td>29 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.147:30160?encryption=none&amp;security=reality&amp;sni=yandex.tr&amp;pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
-    <tr><td>30</td><td>2 ч назад</td><td>45 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?encryption=none&amp;security=reality&amp;sni=rubr7.cheburnetnastalgia1998.com&amp;pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&amp;sid=fcbda044673fdbd1&amp;type=grpc#%40Daily_Configs</code></td></tr>
+    <tr><td>25</td><td>3 ч назад</td><td>16 ms</td><td>100.0%</td><td>3 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>26</td><td>3 ч назад</td><td>38 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=r…</code></td></tr>
+    <tr><td>27</td><td>3 ч назад</td><td>46 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?encryption=none&amp;security=reality&amp;sni=rubr5.cheburnetnastalgia1998.com&amp;pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&amp;sid=1c52b34d46469887&amp;type=grpc#%40Daily_Configs</code></td></tr>
+    <tr><td>28</td><td>3 ч назад</td><td>47 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&amp;security=reality&amp;sni=rubr7.cheburnetnastalgia1998.com&amp;pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&amp;sid=eb3b7e6bbc66552e&amp;type=grpc#%40Daily_Configs</code></td></tr>
+    <tr><td>29</td><td>3 ч назад</td><td>29 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.147:30160?encryption=none&amp;security=reality&amp;sni=yandex.tr&amp;pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
+    <tr><td>30</td><td>3 ч назад</td><td>45 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?encryption=none&amp;security=reality&amp;sni=rubr7.cheburnetnastalgia1998.com&amp;pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&amp;sid=fcbda044673fdbd1&amp;type=grpc#%40Daily_Configs</code></td></tr>
   </tbody>
 </table>
 
