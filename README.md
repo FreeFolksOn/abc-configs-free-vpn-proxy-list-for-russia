@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-03%2000%3A37%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-03%2000%3A47%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-03 00:37 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-03 00:47 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>19 мин назад</td><td>36 ms</td><td>100.0%</td><td>19 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA==@195.58.48.19:10910#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>29 мин назад</td><td>36 ms</td><td>100.0%</td><td>29 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA==@195.58.48.19:10910#Россия🇷🇺</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>37 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA==@195.58.48.19:10910#Россия🇷🇺</code></td></tr>
     <tr><td>03</td><td>2 ч назад</td><td>7 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Германия🇩🇪</code></td></tr>
     <tr><td>04</td><td>2 ч назад</td><td>13 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -71,10 +71,10 @@
     <tr><td>12</td><td>3 ч назад</td><td>13 ms</td><td>100.0%</td><td>3 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
     <tr><td>13</td><td>3 ч назад</td><td>18 ms</td><td>100.0%</td><td>3 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=for--you.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
     <tr><td>14</td><td>3 ч назад</td><td>16 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>15</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
-    <tr><td>16</td><td>3 ч назад</td><td>7 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20142%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>17</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
-    <tr><td>18</td><td>3 ч назад</td><td>71 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20142%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>15</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
+    <tr><td>16</td><td>4 ч назад</td><td>7 ms</td><td>100.0%</td><td>4 ч назад</td><td>#ss</td><td><code>ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20142%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>17</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
+    <tr><td>18</td><td>4 ч назад</td><td>71 ms</td><td>100.0%</td><td>4 ч назад</td><td>#vless</td><td><code>vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20142%20%28%40Outline_Vpn%29%20free</code></td></tr>
     <tr><td>19</td><td>4 ч назад</td><td>7 ms</td><td>100.0%</td><td>4 ч назад</td><td>#ss</td><td><code>ss://87c7fbdb-47d2-4f21-8d8e-04124df819ea@165.232.68.111:32012?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%40VpnMaan%216%21</code></td></tr>
     <tr><td>20</td><td>4 ч назад</td><td>27 ms</td><td>100.0%</td><td>4 ч назад</td><td>#vless</td><td><code>vless://48830385-d494-4248-999a-3ab38aa42101@104.248.253.254:25128?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%40VpnMaan%211%21</code></td></tr>
     <tr><td>21</td><td>4 ч назад</td><td>7 ms</td><td>100.0%</td><td>4 ч назад</td><td>#vless</td><td><code>vless://7617fc5b-a84f-40ee-8e8c-c82b70a7a545@165.227.155.232:27511?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%40VpnMaan%212%21</code></td></tr>
