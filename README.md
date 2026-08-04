@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-04%2002%3A17%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-04%2002%3A27%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-04 02:17 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-04 02:27 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>0 мин назад</td><td>Н/Д</td><td>Н/Д</td><td>Н/Д</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>10 мин назад</td><td>25 ms</td><td>100.0%</td><td>9 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>20 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#Великобритания🇬🇧</code></td></tr>
     <tr><td>03</td><td>2 ч назад</td><td>51 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
     <tr><td>04</td><td>3 ч назад</td><td>35 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Финляндия🇫🇮</code></td></tr>
@@ -80,13 +80,13 @@
     <tr><td>21</td><td>6 ч назад</td><td>20 ms</td><td>100.0%</td><td>6 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>22</td><td>6 ч назад</td><td>Н/Д</td><td>Н/Д</td><td>Н/Д</td><td>#tg_proxy</td><td><code>tg://proxy?server=88.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>23</td><td>6 ч назад</td><td>14 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=00.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>24</td><td>6 ч назад</td><td>28 ms</td><td>100.0%</td><td>6 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
-    <tr><td>25</td><td>6 ч назад</td><td>23 ms</td><td>100.0%</td><td>6 ч назад</td><td>#vless</td><td><code>vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
-    <tr><td>26</td><td>6 ч назад</td><td>27 ms</td><td>100.0%</td><td>6 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%9B%B8</code></td></tr>
-    <tr><td>27</td><td>6 ч назад</td><td>26 ms</td><td>100.0%</td><td>6 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnb…</code></td></tr>
-    <tr><td>28</td><td>6 ч назад</td><td>24 ms</td><td>100.0%</td><td>6 ч назад</td><td>#ss</td><td><code>ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
-    <tr><td>29</td><td>6 ч назад</td><td>26 ms</td><td>100.0%</td><td>6 ч назад</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
-    <tr><td>30</td><td>6 ч назад</td><td>7 ms</td><td>100.0%</td><td>6 ч назад</td><td>#trojan</td><td><code>trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
+    <tr><td>24</td><td>7 ч назад</td><td>28 ms</td><td>100.0%</td><td>7 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
+    <tr><td>25</td><td>7 ч назад</td><td>23 ms</td><td>100.0%</td><td>7 ч назад</td><td>#vless</td><td><code>vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
+    <tr><td>26</td><td>7 ч назад</td><td>27 ms</td><td>100.0%</td><td>7 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%9B%B8</code></td></tr>
+    <tr><td>27</td><td>7 ч назад</td><td>26 ms</td><td>100.0%</td><td>7 ч назад</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnb…</code></td></tr>
+    <tr><td>28</td><td>7 ч назад</td><td>24 ms</td><td>100.0%</td><td>7 ч назад</td><td>#ss</td><td><code>ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
+    <tr><td>29</td><td>7 ч назад</td><td>26 ms</td><td>100.0%</td><td>7 ч назад</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
+    <tr><td>30</td><td>7 ч назад</td><td>7 ms</td><td>100.0%</td><td>7 ч назад</td><td>#trojan</td><td><code>trojan://humanity@104.16.174.121:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
   </tbody>
 </table>
 
