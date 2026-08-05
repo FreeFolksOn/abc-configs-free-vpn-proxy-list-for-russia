@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-05%2023%3A37%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-05%2023%3A47%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-05 23:37 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-05 23:47 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>34 мин назад</td><td>51 ms</td><td>100.0%</td><td>34 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQWZRYjRwOGV4SXhZbGJpTzA0UVBR@193.233.216.247:1080#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>44 мин назад</td><td>51 ms</td><td>100.0%</td><td>44 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQWZRYjRwOGV4SXhZbGJpTzA0UVBR@193.233.216.247:1080#Россия🇷🇺</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>203 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@144.22.183.254:59319#Бразилия🇧🇷</code></td></tr>
     <tr><td>03</td><td>1 ч назад</td><td>17 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>04</td><td>2 ч назад</td><td>23 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
@@ -81,10 +81,10 @@
     <tr><td>22</td><td>4 ч назад</td><td>21 ms</td><td>100.0%</td><td>4 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>23</td><td>4 ч назад</td><td>53 ms</td><td>100.0%</td><td>4 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQWZRYjRwOGV4SXhZbGJpTzA0UVBR@193.233.216.247:1080#Россия🇷🇺</code></td></tr>
     <tr><td>24</td><td>5 ч назад</td><td>28 ms</td><td>100.0%</td><td>5 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>25</td><td>5 ч назад</td><td>15 ms</td><td>100.0%</td><td>5 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>26</td><td>5 ч назад</td><td>15 ms</td><td>100.0%</td><td>5 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hey.foltmeingop.co.uk&amp;port=8880&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>27</td><td>5 ч назад</td><td>20 ms</td><td>100.0%</td><td>5 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>28</td><td>5 ч назад</td><td>17 ms</td><td>100.0%</td><td>5 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hey.foltmeingop.co.uk&amp;port=8880&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>25</td><td>6 ч назад</td><td>15 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>26</td><td>6 ч назад</td><td>15 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hey.foltmeingop.co.uk&amp;port=8880&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>27</td><td>6 ч назад</td><td>20 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>28</td><td>6 ч назад</td><td>17 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hey.foltmeingop.co.uk&amp;port=8880&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
     <tr><td>29</td><td>6 ч назад</td><td>16 ms</td><td>100.0%</td><td>6 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>30</td><td>6 ч назад</td><td>26 ms</td><td>100.0%</td><td>6 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
   </tbody>
