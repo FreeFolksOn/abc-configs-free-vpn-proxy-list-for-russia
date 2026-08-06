@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-06%2003%3A37%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-06%2003%3A47%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-06 03:37 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-06 03:47 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>6 мин назад</td><td>9 ms</td><td>100.0%</td><td>6 мин назад</td><td>#trojan</td><td><code>trojan://humanity@104.17.111.8:443?type=ws&amp;host=www.ignitelimit.com&amp;path=/assignment&amp;security=tls&amp;sni=www.ignitelimit.com&amp;fp=chrome&amp;allowInsecure=0&amp;echfq=none#%3E%3E%40ISVvpn%3A%3AFR</code></td></tr>
-    <tr><td>02</td><td>6 мин назад</td><td>17 ms</td><td>66.7%</td><td>6 мин назад</td><td>#ss</td><td><code>ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
-    <tr><td>03</td><td>6 мин назад</td><td>21 ms</td><td>33.3%</td><td>6 мин назад</td><td>#vless</td><td><code>vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
-    <tr><td>04</td><td>23 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>16 мин назад</td><td>9 ms</td><td>100.0%</td><td>16 мин назад</td><td>#trojan</td><td><code>trojan://humanity@104.17.111.8:443?type=ws&amp;host=www.ignitelimit.com&amp;path=/assignment&amp;security=tls&amp;sni=www.ignitelimit.com&amp;fp=chrome&amp;allowInsecure=0&amp;echfq=none#%3E%3E%40ISVvpn%3A%3AFR</code></td></tr>
+    <tr><td>02</td><td>16 мин назад</td><td>17 ms</td><td>66.7%</td><td>16 мин назад</td><td>#ss</td><td><code>ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
+    <tr><td>03</td><td>16 мин назад</td><td>21 ms</td><td>33.3%</td><td>16 мин назад</td><td>#vless</td><td><code>vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
+    <tr><td>04</td><td>33 мин назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
     <tr><td>05</td><td>1 ч назад</td><td>24 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>06</td><td>2 ч назад</td><td>29 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>07</td><td>3 ч назад</td><td>93 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
