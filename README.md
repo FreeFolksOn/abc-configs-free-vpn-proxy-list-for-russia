@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-07%2008%3A27%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-07%2008%3A37%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,7 +50,7 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-07 08:27 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-07 08:37 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
@@ -68,7 +68,7 @@
     <tr><td>09</td><td>2 ч назад</td><td>400 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA%3D%3D@it2.levikogjgfdd.ir:10901#%3E%3E%40v2rayng_fast%3A%3AIT</code></td></tr>
     <tr><td>10</td><td>2 ч назад</td><td>7 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.de…</code></td></tr>
     <tr><td>11</td><td>2 ч назад</td><td>18 ms</td><td>100.0%</td><td>2 ч назад</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@cf.levikogjgfdd.ir:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
-    <tr><td>12</td><td>2 ч назад</td><td>25 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>12</td><td>3 ч назад</td><td>25 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
     <tr><td>13</td><td>3 ч назад</td><td>Н/Д</td><td>Н/Д</td><td>Н/Д</td><td>#ss</td><td><code>ss://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMifQ</code></td></tr>
     <tr><td>14</td><td>3 ч назад</td><td>125 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%3E%3E%40v2ray_configs_pool%3A%3AUS</code></td></tr>
     <tr><td>15</td><td>3 ч назад</td><td>168 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vmess</td><td><code>vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMifQ</code></td></tr>
