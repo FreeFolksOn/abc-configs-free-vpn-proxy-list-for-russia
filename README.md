@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-07%2022%3A01%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-07%2022%3A11%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-07 22:01 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-07 22:11 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>32 мин назад</td><td>25 ms</td><td>100.0%</td><td>32 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>42 мин назад</td><td>25 ms</td><td>100.0%</td><td>42 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyTDEY2F</code></td></tr>
     <tr><td>03</td><td>1 ч назад</td><td>7 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#🆔ManVPN👈🇧🇬 IRAN%20132%20%28%40Outline_Vpn%29%20Free</code></td></tr>
     <tr><td>04</td><td>1 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyTDEY2F</code></td></tr>
