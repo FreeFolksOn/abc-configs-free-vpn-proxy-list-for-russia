@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-08%2001%3A51%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-08%2002%3A01%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-08 01:51 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-08 02:01 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>30 мин назад</td><td>28 ms</td><td>100.0%</td><td>30 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>40 мин назад</td><td>28 ms</td><td>100.0%</td><td>40 мин назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>52 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY3p1SEQxMlI2eUNMeE5Fb2htX25R@37.77.105.11:1080#Россия🇷🇺</code></td></tr>
     <tr><td>03</td><td>2 ч назад</td><td>7 ms</td><td>100.0%</td><td>2 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Германия🇩🇪</code></td></tr>
     <tr><td>04</td><td>3 ч назад</td><td>11 ms</td><td>100.0%</td><td>3 ч назад</td><td>#trojan</td><td><code>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40kakajan1</code></td></tr>
