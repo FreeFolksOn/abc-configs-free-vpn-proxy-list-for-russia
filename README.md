@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram-канал @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Написать в Telegram" src="https://img.shields.io/badge/Telegram-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-08%2016%3A31%20UTC&color=blue">
+  <img alt="Последнее обновление" src="https://img.shields.io/static/v1?label=%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE&message=2026-08-08%2016%3A41%20UTC&color=blue">
   <img alt="Автообновление каждые 10 минут" src="https://img.shields.io/static/v1?label=%D0%B0%D0%B2%D1%82%D0%BE%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&message=%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B5%2010%20%D0%BC%D0%B8%D0%BD&color=brightgreen">
   <img alt="Лицензия: Unlicense" src="https://img.shields.io/static/v1?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## Последние 30 конфигов
 
-**Последнее обновление:** 2026-08-08 16:31 UTC (обновляется каждые 10 минут)
+**Последнее обновление:** 2026-08-08 16:41 UTC (обновляется каждые 10 минут)
 
 <table>
   <thead>
     <tr><th>#</th><th>Когда</th><th>Задержка</th><th>Успешность</th><th>Последняя активность</th><th>Тег</th><th>Конфиг</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>9 мин назад</td><td>52 ms</td><td>100.0%</td><td>9 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZUhsbmVrODRhak4xZURSamFXTmtTREJLZDA5U1QzcDZhbWRqWm5aTVlUazJPRTFMTW1oMU1qTTFNVXRJTVVObWMwSjJSVmwyWjBGcFZFUTNjVVY2VUE9PQ@91.186.196.37:52473#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>19 мин назад</td><td>52 ms</td><td>100.0%</td><td>19 мин назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZUhsbmVrODRhak4xZURSamFXTmtTREJLZDA5U1QzcDZhbWRqWm5aTVlUazJPRTFMTW1oMU1qTTFNVXRJTVVObWMwSjJSVmwyWjBGcFZFUTNjVVY2VUE9PQ@91.186.196.37:52473#Россия🇷🇺</code></td></tr>
     <tr><td>02</td><td>1 ч назад</td><td>38 ms</td><td>100.0%</td><td>1 ч назад</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjRUSG5lSmVYc3hsU2wzRFByN0tS@157.22.240.141:57925#Россия🇷🇺</code></td></tr>
     <tr><td>03</td><td>1 ч назад</td><td>18 ms</td><td>100.0%</td><td>1 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>04</td><td>2 ч назад</td><td>16 ms</td><td>100.0%</td><td>2 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
@@ -81,11 +81,11 @@
     <tr><td>22</td><td>3 ч назад</td><td>7 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=chopin.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=chopin.adaspoloandco.com#@NormanConfig</code></td></tr>
     <tr><td>23</td><td>3 ч назад</td><td>7 ms</td><td>100.0%</td><td>3 ч назад</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox# 🇩🇪 Telegram @NormanComfig</code></td></tr>
     <tr><td>24</td><td>3 ч назад</td><td>8 ms</td><td>100.0%</td><td>3 ч назад</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig---@NormanConfig&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox# 🇩🇪 Telegram @NormanComfig</code></td></tr>
-    <tr><td>25</td><td>3 ч назад</td><td>17 ms</td><td>100.0%</td><td>3 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>26</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20140%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>27</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85YRK2NG</code></td></tr>
-    <tr><td>28</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85YRK2NG</code></td></tr>
-    <tr><td>29</td><td>3 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20140%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>25</td><td>4 ч назад</td><td>17 ms</td><td>100.0%</td><td>4 ч назад</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>26</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20140%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>27</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#vless</td><td><code>vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85YRK2NG</code></td></tr>
+    <tr><td>28</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇮🇷 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85YRK2NG</code></td></tr>
+    <tr><td>29</td><td>4 ч назад</td><td>Н/Д</td><td>0.0%</td><td>Н/Д</td><td>#ss</td><td><code>ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20140%20%28%40Outline_Vpn%29%20free</code></td></tr>
     <tr><td>30</td><td>4 ч назад</td><td>54 ms</td><td>100.0%</td><td>4 ч назад</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.152:10901#Италия🇮🇹</code></td></tr>
   </tbody>
 </table>
